@@ -13,11 +13,16 @@ Let’s start to play around with React.
 
 Guide Line
 
-1.install react-app : https://create-react-app.dev/docs/getting-started
-2.add bootstrap : https://create-react-app.dev/docs/adding-bootstrap/
-NB :
--Watch out for jsx rules :
-   1.className not class (there is also other attributes camelCase )
-   2.self closing tags must be closed with a "/" like this ( <input /> , <br/> , <img/> , ... )
--You can import bootstrap using the stylesheet link in public/index.html
+1. install react-app : https://create-react-app.dev/docs/getting-started
+
+2. add bootstrap : https://create-react-app.dev/docs/adding-bootstrap/
+
+
+NB : -Watch out for jsx rules :
+
+              1. className not class (there is also other attributes camelCase ) 
+              
+              2. self closing tags must be closed with a "/" like this ( <input /> , <br/> , <img/> , ... ) 
+              
+     -You can import bootstrap using the stylesheet link in public/index.html
 
