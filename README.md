@@ -2,6 +2,7 @@ React Checkpoint
 
 Instruction :
 
+
 Let’s start to play around with React.
 
 1. Create a new React project
