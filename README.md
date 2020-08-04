@@ -24,7 +24,8 @@ NB : -Watch out for jsx rules :
   1. className not class (there is also other attributes camelCase ) 
               
   
-  2. self closing tags must be closed with a "/" like this ( <input /> , <br/> , <img/> , ... ) 
+  2. self closing tags must be closed with a "/" like this  < input/> ,   <br/> ,   <img/>   , ... 
+  
               
   
   -You can import bootstrap using the stylesheet link in public/index.html
